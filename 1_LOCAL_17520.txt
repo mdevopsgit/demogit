@@ -1,2 +1,0 @@
-“this is first commit”
-"this is feature 1"
